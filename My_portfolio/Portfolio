@@ -1,0 +1,72 @@
+#include <stdio.h> 
+#include < my portfolio>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Humphrey Wagah Abwao - Portfolio</title>
+    <style>
+      /* CSS styles for the page */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+      }
+      #header {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 20px;
+      }
+      #header h1 {
+        margin: 0;
+        font-size: 36px;
+      }
+      #main {
+        margin: 20px;
+        padding: 20px;
+        background-color: white;
+        border: 1px solid #ccc;
+      }
+      h2 {
+        font-size: 24px;
+        margin-top: 0;
+      }
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      li {
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <h1>Humphrey Wagah Abwao</h1>
+      <p>Software Engineer & Clinical Officer</p>
+    </div>
+    <div id="main">
+      <h2>About Me</h2>
+      <p>Hi, I'm Humphrey Wagah Abwao, a software engineer and clinical officer with a passion for solving complex problems and improving healthcare outcomes through technology.</p>
+      <h2>Skills</h2>
+      <ul>
+        <li>JavaScript</li>
+        <li>CSS</li>
+        <li>HTML</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C#</li>
+        <li>SQL</li>
+        <li>Git</li>
+      </ul>
+      <h2>Projects</h2>
+      <ul>
+        <li><a href="https://github.com/humphreyabwao-sketch/portfolio">Portfolio Website</a></li>
+        <li><a href="https://github.com/humphreyabwao-sketch/clinical-trial-management-system">Clinical Trial Management System</a></li>
+        <li><a href="https://github.com/humphreyabwao-sketch/chat-app">Real-time Chat Application</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
